@@ -1,5 +1,6 @@
 .idea
 config\.cfg
+config_default\.cfg
 chapter*
 mapcycle_*
 motd*
@@ -7,4 +8,5 @@ pure_*
 replay*
 server_*
 trusted_keys_*
-*.scr
+*\.scr
+*\.txt
