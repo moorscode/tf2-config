@@ -1,0 +1,9 @@
+config\.cfg
+chapter*
+mapcycle_*
+motd*
+pure_*
+replay*
+server_*
+trusted_keys_*
+*.scr
